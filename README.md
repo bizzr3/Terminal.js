@@ -1,2 +1,2 @@
 # Terminal.js
-Fully customize command line Auto Answer Terminal, good for present yourself to CLI lovers.
+Fully customizable command line, good for present yourself to CLI lovers.
